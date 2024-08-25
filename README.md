@@ -1,4 +1,4 @@
-##Juego de Número Secreto
+## Juego de Número Secreto
   . Estado de Proyecto: Finalizado.
   . Para ejecutar el proyecto debes conocer:
     - Conceptos básicos de JavaScript, HTML y CSS
